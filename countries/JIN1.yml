@@ -1,8 +1,8 @@
 #imported from EU4
 2.1.1:
-  color: rgb { 229  222  20 }
+  color: rgb { 128  31  31 }
   religion: sanjiao
-  primary_culture: yan_culture
+  primary_culture: jin_culture
   capital: luoyang
 264.5.2:
   ruler: jin1_zhao_sima
@@ -18,6 +18,7 @@
   ruler: jin1_ye_sima
 317.1.1:
   capital: dantu
+  primary_culture: wu_culture
 318.2.7:
   ruler: jin1_rui_sima
 323.1.3:
@@ -42,7 +43,8 @@
   ruler: jin1_dewen_sima
 907.6.1:
   ruler: jin1_keyong_li
-  capital: luoyang
+  capital: taiyuan
+  primary_culture: jin_culture
 908.2.23:
   ruler: jin1_cunxu_li
 936.1.11:
