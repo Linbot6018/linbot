@@ -7,7 +7,7 @@
     WEI0: yes
   resource: grain
   pop:
-    ethnicity: jin_culture
+    ethnicity: zhongyuan_culture
     religion: sanjiao
     estate: peasant
     size: 1000
@@ -40,47 +40,49 @@
     WUU: no
     JIN1: yes
 315.11.27:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+329.3.15:
   owner: ZHAO
   controller: ZHAO
   cores:
+    HAN0: no
     ZHAO: yes
-329.3.15:
-  owner: XIA0
-  controller: XIA0
-  cores:
-    ZHAO: no
-    XIA0: yes
 334.2.15:
   owner: JIN1
   controller: JIN1
-    XIA: no
-    JIN1: yes
+  cores:
+    ZHAO: no
 334.6.15:
-  owner: XIA0
-  controller: XIA0
+  owner: ZHAO
+  controller: ZHAO
+  cores:
     JIN1: no
-    XIA: yes
+    ZHAO: yes
 350.2.15:
   owner: QIN0
   controller: QIN0
   cores:
-    XIA: no
+    ZHAO: no
     QIN0: yes
 388.1.15:
-  owner: WEI0
-  controller: WEI0
+  owner: LQIN
+  controller: LQIN
   cores:
     QIN0: no
-    WEI0: yes
+    LQIN: yes
 417.9.20:
   owner: JIN1
   controller: JIN1
+  cores:
+    LQIN: no
     JIN1: yes
 418.11.15:
   owner: XIA0
   controller: XIA0
   cores:
-    WEI0: no
     XIA0: yes
 427.7.11:
   owner: WEI0
@@ -89,70 +91,70 @@
     XIA0: no
     WEI0: yes
 527.4.15:
-  owner: QIN0
-  controller: QIN0
+  owner: GAOP
+  controller: GAOP
   cores:
-    WEI0: no
-    QIN0: yes
+    GAOP: yes
 530.6.30:
-  owner: JIN1
-  controller: JIN1
+  owner: ERZH
+  controller: ERZH
   cores:
-    QIN0: no
-    JIN1: yes
+    GAOP: no
+    ERZH: yes
 530.11.1:
   owner: WEI0
   controller: WEI0
   cores:
-    JIN1: no
-    WEI0: yes
+    ERZH: no
 530.12.15:
-  owner: JIN1
-  controller: JIN1
+  owner: ERZH
+  controller: ERZH
   cores:
-    WEI0: no
-    JIN1: yes
+    ERZH: yes
 532.5.15:
   owner: ZHOU
   controller: ZHOU
   cores:
-    WEI0: no
+    ERZH: no
     ZHOU: yes
+557.2.14:
+  cores:
+    WEI0: no
 581.3.4:
   owner: SUI0
   controller: SUI0
   cores:
     ZHOU: no
     SUI0: yes
-617.12.18:
+617.10.15:
   owner: TANG
   controller: TANG
   cores:
     SUI0: no
     TANG: yes
 756.7.15:
-  owner: JIN1
-  controller: JIN1
+  owner: YAN0
+  controller: YAN0
   cores:
     TANG: no
-    JIN1: yes
+    YAN0: yes
 757.6.15:
   owner: TANG
   controller: TANG
   cores:
-    JIN1: no
+    YAN0: no
     TANG: yes
 757.5.15:
-  owner: JIN1
-  controller: JIN1
+  owner: YAN0
+  controller: YAN0
   cores:
     TANG: no
-    JIN1: yes
+    YAN0: yes
 757.11.14:
   owner: TANG
   controller: TANG
   cores:
-    JIN1: no
+    YAN0: no
     TANG: yes
 882.3.15:
   owner: QI00
@@ -280,22 +282,22 @@
     MGE: no
     YUA: yes
 1360.7.15:
-  owner: JIN1
-  controller: JIN1
+  owner: CKO
+  controller: CKO
   cores:
-    YUA: no
-    JIN1: yes
+    CKO: yes
 1367.7.15:
-  owner: QIN0
-  controller: QIN0
+  owner: CSI
+  controller: CSI
   cores:
-    JIN1: no
-    QIN0: yes
+    CKO: no
+    CSI: yes
 1369.4.15:
   owner: MNG
   controller: MNG
   cores:
-    MGE: no
+    CSI: no
+    YUA: no
     MNG: yes
 1643.11.15:
   owner: CSH
@@ -310,40 +312,117 @@
     MNG: no
     QNG: yes
 1863.11.15:
-  controller: QNG
+  owner: HUIM
+  controller: HUIM
+  cores:
+    HUIM: yes
 1863.12.15:
+  owner: QNG
   controller: QNG
 1867.2.15:
-  controller: QNG
+  owner: HUIM
+  controller: HUIM
 1867.4.15:
-  controller: QNG
-1868.5.15:
+  owner: QNG
   controller: QNG
 1868.6.15:
-  controller: QNG
+  owner: NIAN
+  controller: NIAN
+  cores:
+    NIAN: yes
 1868.8.15:
+  owner: QNG
   controller: QNG
+    NIAN: no
 1870.4.15:
-  controller: QNG
+  owner: HUIM
+  controller: HUIM
 1870.5.15:
+  owner: QNG
   controller: QNG
+  cores:
+    HUIM: no
 1911.10.30:
-  owner: CHI
-  controller: CHI
+  owner: SHAA
+  controller: SHAA
   cores:
     QNG: no
-    CHI: yes
+    SHAA: yes
+    BROC: yes
 1914.6.20:
-  controller: CHI
+  owner: BROC
+  controller: BROC
 1918.9.15:
-  controller: CHI
+  owner: SHAA
+  controller: SHAA
 1921.10.27:
-  controller: CHI
-1924.12.15:
-  controller: CHI
-1930.11.4:
-  controller: CHI
+  owner: GAOJ
+  controller: GAOJ
+  cores:
+    GAOJ: yes
+1924.2.15:
+  owner: ZHSO
+  controller: ZHSO
+  cores:
+    GAOJ: no
+    ZHSO: yes
+1925.2.15:
+  owner: SSHX
+  controller: SSHX
+  cores:
+    ZHSO: no
+    SSHX: yes
+1925.7.15:
+  owner: SHAA
+  controller: SHAA
+  cores:
+    SSHX: no
+1926.4.15:
+  owner: ZHSO
+  controller: ZHSO
+  cores:
+    ZHSO: yes
+1926.6.15:
+  owner: GAOJ
+  controller: GAOJ
+  cores:
+    ZHSO: no
+    GAOJ: yes
+1926.9.15:
+  owner: ZHSO
+  controller: ZHSO
+  cores:
+    GAOJ: no
+    ZHSO: yes
+1926.12.15:
+  owner: FYXI
+  controller: FYXI
+  cores:
+    ZHSO: no
+    FYXI: yes
+1928.4.15:
+  owner: SHAA
+  controller: SHAA
+  cores:
+    FYXI: no
+1928.7.15:
+  owner: FYXI
+  controller: FYXI
+  cores:
+    FYXI: yes
+1930.9.15:
+  owner: SHAA
+  controller: SHAA
+  cores:
+    FYXI: no
 1937.2.7:
-  controller: CHI
+  owner: KROC
+  controller: KROC
+  cores:
+    KROC: yes
 1948.10.6:
-  controller: CHI
+  owner: PROC
+  controller: PROC
+  cores:
+    PROC: yes
+    SHAA: no
