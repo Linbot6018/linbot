@@ -1,0 +1,7 @@
+#Taipings
+2.1.1:
+  color: rgb { 204 85 177 }
+  government_rank: rank_kingdom
+  religion: sanjiao
+  primary_culture: hakka_culture
+  capital: dantu

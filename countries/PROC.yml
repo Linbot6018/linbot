@@ -1,0 +1,28 @@
+#communist china, specifically Mao?
+2.1.1:
+  color: rgb { 255 0 105 }
+  government_rank: rank_empire
+  religion: sanjiao
+  primary_culture: yan_culture
+  capital: dadu
+1927.8.1:
+  ruler: chi_mao_zedong
+  capital: ruijin
+1937.1.13:
+  ruler: chi_mao_zedong
+  capital: jingzhao
+1949.10.1:
+  ruler: chi_mao_zedong
+  capital: dadu
+1976.10.7:
+  ruler: chi_hua_guofeng
+1981.6.28:
+  ruler: chi_hu_yaobang
+1987.1.15:
+  ruler: chi_zhao_ziyang
+1989.6.23:
+  ruler: chi_jiang_zemin
+2002.11.15:
+  ruler: chi_hu_jintao
+2012.11.15:
+  ruler: chi_xi_jinping

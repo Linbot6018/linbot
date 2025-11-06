@@ -1,0 +1,9 @@
+#Bolad Temur, Datong
+2.1.1:
+  color: rgb { 222 41 16 }
+  religion: sanjiao
+  primary_culture: jin_culture
+  government_rank: rank_duchy
+  capital: datong_datong
+189.9.28:
+  primary_culture: mongolian_culture

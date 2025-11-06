@@ -1,0 +1,23 @@
+#nationalist china / kuomintang
+2.1.1:
+  color: rgb { 0 40 204 }
+  government_rank: rank_empire
+  ruler: han0_kan_liu
+  religion: sanjiao
+  primary_culture: zhongyuan_culture
+  capital: jingzhao
+1912.1.1:
+  ruler: chi_sun_yat_sen
+  capital: dantu
+1917.9.10:
+  ruler: chi_sun_yat_sen
+  capital: guangzhou
+1927.4.18:
+  ruler: chi_chiang_kai_shek
+  capital: dantu
+1937.11.17:
+  capital: hanchuan
+1937.11.21:
+  capital: baxian
+1946.5.5:
+  capital: dantu

@@ -1,0 +1,7 @@
+#South Shaanxi, Wu Xintian
+2.1.1:
+  color: rgb { 260 180 160 }
+  government_rank: rank_duchy
+  religion: sanjiao
+  primary_culture: zhongyuan_culture
+  capital: nanzheng

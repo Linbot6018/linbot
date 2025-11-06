@@ -1,0 +1,9 @@
+#Beiyang Army, Yuan Shikai, Republic of China (1910s)
+2.1.1:
+  color: rgb { 68 76 56 }
+  government_rank: rank_empire
+  religion: sanjiao
+  primary_culture: zhongyuan_culture
+  capital: dadu
+1912.2.12:
+  ruler: chi_yuan_shikai
