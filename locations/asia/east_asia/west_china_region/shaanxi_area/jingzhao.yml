@@ -72,16 +72,16 @@
     ZHAO: no
     QIN0: yes
 385.1.15:
-  owner: WEI0
-  controller: WEI0
+  owner: WYAN
+  controller: WYAN
   cores:
     QIN0: no
-    WEI0: yes
+    WYAN: yes
 386.5.15:
   owner: LQIN
   controller: LQIN
   cores:
-    WEI0: no
+    WYAN: no
     LQIN: yes
 417.9.20:
   owner: JIN1
@@ -237,13 +237,13 @@
   controller: JIN0
   cores:
     JIN0: yes
-1128.5.15:
+1128.2.15:
   owner: SONG
   controller: SONG
   cores:
     JIN0: no
     SONG: yes
-1128.10.15:
+1129.11.14:
   owner: JIN0
   controller: JIN0
   cores:
@@ -384,12 +384,12 @@
   controller: SHAA
   cores:
     FYXI: no
-1937.2.7:
+1937.2.8:
   owner: KROC
   controller: KROC
   cores:
     KROC: yes
-1948.10.6:
+1949.6.9:
   owner: PROC
   controller: PROC
   cores:

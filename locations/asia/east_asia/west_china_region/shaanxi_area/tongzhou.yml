@@ -67,8 +67,19 @@
   cores:
     ZHAO: no
     QIN0: yes
-    QIN0: yes
 388.1.15:
+  owner: LQIN
+  controller: LQIN
+  cores:
+    QIN0: no
+    LQIN: yes
+390.8.15:
+  owner: QIN0
+  controller: QIN0
+  cores:
+    LQIN: no
+    QIN0: yes
+391.1.15:
   owner: LQIN
   controller: LQIN
   cores:
@@ -187,7 +198,7 @@
   cores:
     QI00: no
     LIA: yes
-923.11.19:
+920.5.15:
   owner: TANG
   controller: TANG
   cores:
@@ -337,7 +348,7 @@
   cores:
     NIAN: no
     HUIM: no
-1911.10.30:
+1911.11.21:
   owner: SHAA
   controller: SHAA
   cores:

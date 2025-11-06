@@ -186,7 +186,7 @@
   cores:
     QI00: no
     LIA: yes
-923.11.19:
+920.5.15:
   owner: TANG
   controller: TANG
   cores:
@@ -342,7 +342,7 @@
   cores:
     NIAN: no
     HUIM: no
-1911.10.30:
+1911.11.6:
   owner: SHAA
   controller: SHAA
   cores:
@@ -350,6 +350,12 @@
     SHAA: yes
     BROC: yes
 1914.6.20:
+  owner: BROC
+  controller: BROC
+1916.4.1:
+  owner: SHAA
+  controller: SHAA
+1916.6.7:
   owner: BROC
   controller: BROC
 1918.9.15:
